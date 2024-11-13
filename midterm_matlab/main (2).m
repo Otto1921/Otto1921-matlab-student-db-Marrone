@@ -1,7 +1,7 @@
-% Author Name: Samuel Amery
-% Email: amerys34@rowan.edu
+% Author Name: Mark Marrone
+% Email: Marrone94@students.rowan.edu
 % Course: MATLAB Programming - Fall 2024
-% Assignment: midterm
+% Assignment: midterm_matlab
 % Date: 11/13/2024
 % Main script to demonstrate the functionality
 db = StudentDatabase();  % Create a new StudentDatabase object
